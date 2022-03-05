@@ -1,11 +1,11 @@
 {
-  "main.js": "/quotecollector/static/js/main.d14d06f0.chunk.js",
-  "main.js.map": "/quotecollector/static/js/main.d14d06f0.chunk.js.map",
+  "main.js": "/quotecollector/static/js/main.94b0906b.chunk.js",
+  "main.js.map": "/quotecollector/static/js/main.94b0906b.chunk.js.map",
   "runtime~main.js": "/quotecollector/static/js/runtime~main.1a68f5c5.js",
   "runtime~main.js.map": "/quotecollector/static/js/runtime~main.1a68f5c5.js.map",
   "static/js/2.ff535763.chunk.js": "/quotecollector/static/js/2.ff535763.chunk.js",
   "static/js/2.ff535763.chunk.js.map": "/quotecollector/static/js/2.ff535763.chunk.js.map",
   "index.html": "/quotecollector/index.html",
-  "precache-manifest.b52325ca501cac5c954a93c9505bc4b7.js": "/quotecollector/precache-manifest.b52325ca501cac5c954a93c9505bc4b7.js",
+  "precache-manifest.a786480a926ee5d7a7a09c395a686fb2.js": "/quotecollector/precache-manifest.a786480a926ee5d7a7a09c395a686fb2.js",
   "service-worker.js": "/quotecollector/service-worker.js"
 }
