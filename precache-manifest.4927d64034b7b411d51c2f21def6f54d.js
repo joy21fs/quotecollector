@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "8342b7f52a70df4aef6b",
-    "url": "/quotecollector/static/js/main.cab357d6.chunk.js"
+    "revision": "ec8434f529e0522e4cdf",
+    "url": "/quotecollector/static/js/main.c5dd238d.chunk.js"
   },
   {
     "revision": "aac7654af4a254c333ef",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/quotecollector/static/js/2.b2091732.chunk.js"
   },
   {
-    "revision": "341696b3256a44b450f3b30376b1c2ac",
+    "revision": "e780a967dcec84476c5efbfd76cba26a",
     "url": "/quotecollector/index.html"
   }
 ];
