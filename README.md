@@ -1,6 +1,6 @@
 # quotecollector
 
-Live Site URL: "https://joy21fs.github.io/quotecollector",
+Live Site URL: "https://joy21fs.github.io/quotecollector"
 Code URL: "https://github.com/joy21fs/quotecollector/tree/master"
 
 Using **React** to create components and build landing page,
