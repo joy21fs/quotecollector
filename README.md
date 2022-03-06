@@ -12,11 +12,11 @@ Using **react-router-dom** to navigate between the homepage and subpages
 
 
 Using **react-router-hash-link** to navigate to different sections on the landing page (homepage)
---https://github.com/remix-run/react-router/issues/394#issuecomment-220221604
+_Reference:_--https://github.com/remix-run/react-router/issues/394#issuecomment-220221604
 Also built with Bootstrap
 
 Deploying React app onto Github
---https://github.com/gitname/react-gh-pages
+_Reference:_https://github.com/gitname/react-gh-pages
 - adding the following to **package.json**
   - **"homepage"**: "https://joy21fs.github.io/quotecollector"
   - "scripts": {
@@ -29,3 +29,8 @@ Deploying React app onto Github
   },
  - in **index.js**
   - adding a **basename** to <BrowserRouter></BrowserRouter>
+
+Solving blank and 404 page issues
+_Reference: https://webdev99.com/deploy-react-app-with-react-router-to-github-pages-blank-404-page-problem-solved/_
+
+
