@@ -99,7 +99,7 @@ section > .wrapper {
 /*********** Navigation Bar ************/
 .navbar {
   position: fixed;
-  width: 100%;
+  width: 100vw;
   z-index: 1;
 }
 
