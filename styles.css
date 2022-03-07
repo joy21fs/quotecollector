@@ -97,6 +97,9 @@ section > .wrapper {
 }
 
 /*********** Navigation Bar ************/
+.navbar {
+  position: fixed;
+}
 
 li#toggle-item > a,
 .dropdown-item {
