@@ -97,11 +97,6 @@ section > .wrapper {
 }
 
 /*********** Navigation Bar ************/
-.navbar {
-  position: fixed;
-  width: 100vw;
-  z-index: 1;
-}
 
 li#toggle-item > a,
 .dropdown-item {
