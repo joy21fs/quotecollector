@@ -99,6 +99,7 @@ section > .wrapper {
 /*********** Navigation Bar ************/
 .navbar {
   position: fixed;
+  width: 100%;
 }
 
 li#toggle-item > a,
