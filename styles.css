@@ -142,7 +142,7 @@ section > .wrapper.quote-category {
 }
 
 .intro > .quotation-mark {
-  top: 5vh;
+  top: 7vh;
   right: 4%;
   max-width: 10vw;
 }
@@ -318,12 +318,12 @@ span {
 }
 
 .quote-category > .quotation-mark {
-  top: 8rem;
+  top: 3rem;
   margin: 0 2rem;
 }
 
 .quote-title {
-  padding: 2rem 0;
+  padding: 4rem 0;
 }
 
 /*********** RWD ************/
