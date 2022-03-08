@@ -366,9 +366,9 @@ span {
   }
 
   .intro > .quotation-mark {
-    position: absolute;
-    left: 53vw;
-    min-width: 40vw;
+    top: 13vh;
+    right: 4%;
+    max-width: 10vw;
   }
 
   /*********** About Section ************/
@@ -389,7 +389,7 @@ span {
   }
 
   .quote-category > .quotation-mark {
-    top: 6rem;
+    top: 7.5rem;
     margin: 0 2rem;
   }
 
