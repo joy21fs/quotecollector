@@ -35,6 +35,30 @@ const quotes = [
     id: 53,
     src: "/images/quotes/box5-3.jpg",
   },
+  {
+    category: "",
+    number: 1,
+    id: 11,
+    src: "https://picsum.photos/200/300",
+  },
+  {
+    category: "",
+    number: 1,
+    id: 12,
+    src: "https://picsum.photos/id/1010/200/300",
+  },
+  {
+    category: "",
+    number: 3,
+    id: 31,
+    src: "https://picsum.photos/id/1025/200/300",
+  },
+  {
+    category: "",
+    number: 4,
+    id: 41,
+    src: "https://picsum.photos/id/1035/200/300",
+  },
 ];
 
 export default quotes;

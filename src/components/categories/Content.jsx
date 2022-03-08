@@ -21,7 +21,11 @@ function Content(props) {
                 >
                   <img
                     className="quotes"
-                    src={process.env.PUBLIC_URL + quote.src}
+                    src={
+                      quote.number === 2 || quote.number === 5
+                        ? process.env.PUBLIC_URL + quote.src
+                        : quote.src
+                    }
                     alt="quote"
                   />
                 </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import NavbarToggleContent from "./NavbarToggleContent";
 import NavbarToggleButton from "./NavbarToggleButton";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
