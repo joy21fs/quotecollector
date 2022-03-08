@@ -130,7 +130,7 @@ li#toggle-item > a {
 
 section > .wrapper.intro,
 section > .wrapper.quote-category {
-  padding: 30vh 0.5rem 12vh 0.5rem;
+  padding: 6vh 0.5rem;
 }
 
 .header {
@@ -364,9 +364,10 @@ span {
     padding: 15vh 0.6rem;
   }
 
-  section > .wrapper.intro,
-  section > .wrapper.quote-category {
-    padding: 18vh 0.5rem 12vh 0.5rem;
+  .intro > .quotation-mark {
+    position: absolute;
+    left: 53vw;
+    min-width: 40vw;
   }
 
   /*********** About Section ************/
