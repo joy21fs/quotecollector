@@ -128,8 +128,9 @@ li#toggle-item > a {
   line-height: 1.5;
 }
 
-section > .wrapper.intro {
-  padding: 6vh 0.5rem;
+section > .wrapper.intro,
+section > .wrapper.quote-category {
+  padding: 30vh 0.5rem 12vh 0.5rem;
 }
 
 .header {
@@ -141,7 +142,7 @@ section > .wrapper.intro {
 }
 
 .intro > .quotation-mark {
-  top: 5vh;
+  top: 30vh;
   right: 4%;
   max-width: 10vw;
 }
@@ -302,8 +303,12 @@ span {
   padding: 2% 0;
 }
 
+/*********** Quotes Section ************/
+
 .quotes-container {
   display: flex;
+  width: 100%;
+  margin: auto;
 }
 
 .quotes {
@@ -313,7 +318,7 @@ span {
 }
 
 .quote-category > .quotation-mark {
-  top: 2rem;
+  top: 8rem;
   margin: 0 2rem;
 }
 
@@ -359,10 +364,9 @@ span {
     padding: 15vh 0.6rem;
   }
 
-  .intro > .quotation-mark {
-    position: absolute;
-    left: 53vw;
-    min-width: 40vw;
+  section > .wrapper.intro,
+  section > .wrapper.quote-category {
+    padding: 18vh 0.5rem 12vh 0.5rem;
   }
 
   /*********** About Section ************/
@@ -374,7 +378,7 @@ span {
     width: 85%;
   }
 
-  /*********** Collection Category Section ************/
+  /*********** Quotes Section ************/
   .category-container {
     display: grid;
     grid-template-areas:
