@@ -323,7 +323,7 @@ span {
 }
 
 .quote-title {
-  padding: 4rem 0 1rem 0;
+  padding: 4.5rem 0 1rem 0;
   font-size: 1.2rem;
 }
 
@@ -386,5 +386,10 @@ span {
     grid-template-areas:
       "circle circle circle"
       "circle circle circle";
+  }
+
+  .quote-title {
+    padding: 4.5rem 0 1rem 0;
+    font-size: default;
   }
 }
